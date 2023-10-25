@@ -1,0 +1,22 @@
+{
+    "workbench.startupEditor": "none",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "workbench.iconTheme": "vscode-icons",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "json.schemas": [],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "editor.fontWeight": "normal",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "html.format.extraLiners": "",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
